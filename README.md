@@ -130,6 +130,8 @@ chmod +x scripts/run.sh scripts/stop.sh scripts/status.sh
 http://localhost
 ```
 
+![img.png](img/img.png)
+
 Для дополнительной проверки можно выполнить команды:
 
 ```bash
@@ -137,6 +139,7 @@ docker ps
 docker network inspect internal
 curl http://localhost
 ```
+![img2.png](img/img2.png)
 
 ## Ответы на вопросы
 
